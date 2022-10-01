@@ -1,4 +1,4 @@
-[
+{"users":[
     {
       "id": "633849591ab0af819d39ebb5",
       "email": "clemons_noel@telequiet.vision",
@@ -247,4 +247,4 @@
       ],
       "createdAt": "2013-06-30T10:01:29.896Z"
     }
-  ]
+  ]}
